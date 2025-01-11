@@ -133,9 +133,9 @@ FinEase's architecture ensures seamless interaction between the frontend and bac
 
 ## 👥 Team
 
-- **Hardik Malani**
-- **Anouska Jhunjhunwala**
-- **Tuhina Tripathi**
+- **Narasimha**
+- **Sanskriti kadam**
+- **Krishi shah**
 
 ---
 
