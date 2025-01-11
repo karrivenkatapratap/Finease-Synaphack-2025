@@ -131,7 +131,7 @@ FinEase's architecture ensures seamless interaction between the frontend and bac
 
 ---
 
-## 👥 Team
+## 👥 Team TechBugs
 
 - **Narasimha**
 - **Sanskriti kadam**
